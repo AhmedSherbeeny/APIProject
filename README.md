@@ -78,6 +78,10 @@ The below screenshot from the unit test result
 
 ![image](https://user-images.githubusercontent.com/97340280/160281501-6eeb8cf6-1d2d-4dec-ba3f-3ec1c68d926f.png)
 
+
+I used Git to push my packages to the remote repo on Azure Devops
+
+![image](https://user-images.githubusercontent.com/97340280/160282413-0321cce2-8ffc-441c-bc00-dc7f136f71ee.png)
         
 I used Azure Pipeline to run a CI on the Class Library, and store the package on Nuget.org.
 
