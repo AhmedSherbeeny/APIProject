@@ -1,14 +1,14 @@
 ### APIProject
 
-#### Discrption
+#### Description
 
 This project was a graduation project in my course i was taken, it's an API project working depend on a class library, you give it numbers and it will calculate the numbers with three function, the Avarage, the Smallest number, the Largest number.
   
-The Class libarary carry the fuuncations, and the API value controller carry the business logic. and i make the class library as a dependancy.
+The Class library carry the funcations, and the API value controller carry the business logic. and i make the class library as a dependency.
   
 #### Code View
 
-In the below points i will put parts from the code i use in the Class libarary and the API
+In the below points i will put parts from the code i use in the Class library and the API
 
   * Class Library
 
