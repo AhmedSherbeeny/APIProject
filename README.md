@@ -2,7 +2,7 @@
 
 #### Description
 
-This project was a graduation project in my course i was taken, it's an API project working depend on a class library, you give it numbers and it will calculate the numbers with three function, the Average, the Smallest number, the Largest number.
+It's an API Web app working depend on a class library, you give it numbers and it will calculate the numbers and get three results depend on the parameter you will give it, Average of numbers, Smallest number and Largest number.
 
 The Class library carry the functions, and the API value controller carry the business logic. and i make the class library as a dependency.
   
