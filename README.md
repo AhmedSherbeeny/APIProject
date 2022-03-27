@@ -135,6 +135,6 @@ Contiuous Deleviry (CD)
 ![image](https://user-images.githubusercontent.com/97340280/160282209-1f6006bd-cc7d-4dcb-9d31-ccbab0d75d5b.png)
 
 
-Note: I used MicroSoft Azure to upload My Web App but my subcritopn was ended
+Note: I used MicroSoft Azure to upload My Web App but my subscription was ended.
 
 
