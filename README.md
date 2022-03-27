@@ -2,9 +2,9 @@
 
 #### Description
 
-This project was a graduation project in my course i was taken, it's an API project working depend on a class library, you give it numbers and it will calculate the numbers with three function, the Avarage, the Smallest number, the Largest number.
-  
-The Class library carry the funcations, and the API value controller carry the business logic. and i make the class library as a dependency.
+This project was a graduation project in my course i was taken, it's an API project working depend on a class library, you give it numbers and it will calculate the numbers with three function, the Average, the Smallest number, the Largest number.
+
+The Class library carry the functions, and the API value controller carry the business logic. and i make the class library as a dependency.
   
 #### Code View
 
