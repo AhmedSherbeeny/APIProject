@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SherbeenyLibrary</id>
+    <version>1.0.0</version>
+    <authors>SherbeenyLibrary</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Course Code\My Projects\New Projects\SherbeenyLibrary\SherbeenyLibrary\bin\Release\netcoreapp3.1\SherbeenyLibrary.dll" target="lib\netcoreapp3.1\SherbeenyLibrary.dll" />
+  </files>
+</package>

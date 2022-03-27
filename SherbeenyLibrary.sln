@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SherbeenyLibrary", "SherbeenyLibrary\SherbeenyLibrary.csproj", "{BA48904F-4ADE-43B0-A89E-82E07B9E54FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSherbeenyLib", "TestSherbeenyLib\TestSherbeenyLib.csproj", "{C2183F4B-7F06-4090-8391-FEDC425129B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA48904F-4ADE-43B0-A89E-82E07B9E54FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA48904F-4ADE-43B0-A89E-82E07B9E54FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA48904F-4ADE-43B0-A89E-82E07B9E54FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA48904F-4ADE-43B0-A89E-82E07B9E54FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2183F4B-7F06-4090-8391-FEDC425129B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2183F4B-7F06-4090-8391-FEDC425129B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2183F4B-7F06-4090-8391-FEDC425129B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2183F4B-7F06-4090-8391-FEDC425129B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AAE1BA0-955C-4E80-A9C6-F691E808C80D}
+	EndGlobalSection
+EndGlobal
