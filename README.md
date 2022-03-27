@@ -114,5 +114,23 @@ You can find my Class Library package on https://www.nuget.org/packages/Sherbeen
     }
     
 
+Also i used Azure Pipeline to run CI/CD on the API, here is the below screenshot from the CI/CD
+
+Continuous Integration (CI)
+
+![image](https://user-images.githubusercontent.com/97340280/160281961-4b19a0b8-5db8-4f2f-8e91-d001f74d1dce.png)
+
+Note: This time i upload the package on Azure Artifact not Nuget.
+
+Contiuous Deleviry (CD)
+
+![image](https://user-images.githubusercontent.com/97340280/160282110-393db6db-91ba-4e59-83eb-bf0a683826f0.png)
+
+![image](https://user-images.githubusercontent.com/97340280/160282155-80020985-00e5-4768-afa3-7345f250e709.png)
+
+![image](https://user-images.githubusercontent.com/97340280/160282209-1f6006bd-cc7d-4dcb-9d31-ccbab0d75d5b.png)
+
+
+Note: I used MicroSoft Azure to upload My Web App but my subcritopn was ended
 
 
